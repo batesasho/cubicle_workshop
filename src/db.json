@@ -1,20 +1,13 @@
 [
     {
         "id": 0,
-        "name": "Тест",
-        "description": "фдсфсд",
-        "imageUrl": "фдсфдс",
-        "difficultyLevel": "1"
-    },
-    {
-        "id": 1,
         "name": "Test",
         "description": "fdsfdsfd",
         "imageUrl": "фдсsfdsfdsfdsфдс",
-        "difficultyLevel": "33"
+        "difficultyLevel": "3"
     },
     {
-        "id": 2,
+        "id": 1,
         "name": "df",
         "description": "fdsf",
         "imageUrl": "fdsfs",

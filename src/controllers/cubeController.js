@@ -1,7 +1,6 @@
 const router = require('express').Router();
 const cubeService = require('../services/cubeService.js')
-const fs = require('fs/promises');
-const path = require("path");
+
 
 router.get('/create', (req, res) => {
     res.render('create')
